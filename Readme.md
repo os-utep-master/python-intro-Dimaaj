@@ -30,6 +30,7 @@ In the repository are two plain text files with lots of words. Your assignment i
 
 takes as input the name of an input file and output file
 example
+
 $ python wordCount.py input.txt output.txt
 
 keeps track of the total the number of times each word occurs in the text file
