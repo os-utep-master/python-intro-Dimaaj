@@ -17,7 +17,9 @@ Python version used: 3.7
 For this project, the following people helped me in understanding it better:
 
 Jazmin Paz (helped me with removing punctuations)
+
 Samarah Jorgensen (helped me understand why the command uses three text files and not just two (reason is to test))
+
 Jaime Salas (helped me understand why i needed the sys library)
 
 The following are the project instruction:
